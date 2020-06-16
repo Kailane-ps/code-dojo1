@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\222\bin\Debug\netcoreapp3.1\222.exe
+C:\Users\Kailane\Desktop\222\bin\Debug\netcoreapp3.1\222.deps.json
+C:\Users\Kailane\Desktop\222\bin\Debug\netcoreapp3.1\222.runtimeconfig.json
+C:\Users\Kailane\Desktop\222\bin\Debug\netcoreapp3.1\222.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\222\bin\Debug\netcoreapp3.1\222.dll
+C:\Users\Kailane\Desktop\222\bin\Debug\netcoreapp3.1\222.pdb
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.dll
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.pdb
+C:\Users\Kailane\Desktop\222\obj\Debug\netcoreapp3.1\222.genruntimeconfig.cache
